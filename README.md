@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/macOS-Sonoma-blue">
+  <img src="https://img.shields.io/badge/macOS-Tahoe-blue">
   <img src="https://img.shields.io/badge/OpenCore-0.9.x-green">
   <img src="https://img.shields.io/badge/AMD-Ryzen-orange">
   <img src="https://img.shields.io/badge/Status-Stable-brightgreen">
